@@ -1,6 +1,15 @@
 # SynRL: Synaptic Reinforcement Learning
 
-Code for the paper _Gradient-Free Neural Network Training via Synaptic-Level Reinforcement Learning_. The paper is currently available on [arXiv](https://arxiv.org/abs/2105.14383).
+Code for the paper _Gradient-Free Neural Network Training via Synaptic-Level Reinforcement Learning_. The paper is currently available on [arXiv](https://arxiv.org/abs/2105.14383). 
+
+```
+@article{bhargava2021gradient,
+  title={Gradient-Free Neural Network Training via Synaptic-Level Reinforcement Learning},
+  author={Bhargava, Aman and Rezaei, Mohammad R and Lankarany, Milad},
+  journal={arXiv preprint arXiv:2105.14383},
+  year={2021}
+}
+```
 
 ## Key Files
 
